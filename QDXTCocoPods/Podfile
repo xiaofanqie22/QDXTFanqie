@@ -8,7 +8,6 @@ pod 'SocketRocket'
 
   pod 'FLAnimatedImage', '~> 1.0.12'
 pod 'Masonry', '~> 1.1.0'
-pod 'QDXTFanqie', :git => "https://github.com/xiaofanqie22/QDXTFanqie.git", :tag => '1.0.0'
 
 #pod 'SDCycleScrollView', '~> 1.75'
 

@@ -30,7 +30,6 @@
 		2FD3241221807520009C967D /* YGToolsObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FD3241121807520009C967D /* YGToolsObject.m */; };
 		3223EA4022000BD10062D33B /* del.png in Resources */ = {isa = PBXBuildFile; fileRef = 3223EA3F22000BD10062D33B /* del.png */; };
 		3248D42221F067D2005614E4 /* TSFRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 3248D42121F067D2005614E4 /* TSFRequest.m */; };
-		32C1136921FAE7E900A5C3ED /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32C1136821FAE7E900A5C3ED /* ViewController.m */; };
 		8BA1A322E00A010047346049 /* libPods-ygxtClass.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 83C4442D97AC40F632E04443 /* libPods-ygxtClass.a */; };
 		BD0563342403B70600CC46A2 /* PersonVideoView.m in Sources */ = {isa = PBXBuildFile; fileRef = BD0563322403B70600CC46A2 /* PersonVideoView.m */; };
 		BD0563372403D13500CC46A2 /* VideoCallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BD0563362403D13500CC46A2 /* VideoCallViewController.m */; };
@@ -302,7 +301,6 @@
 		13DAFC7AB194757761EC4961 /* Pods-ygxtClass.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ygxtClass.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ygxtClass/Pods-ygxtClass.debug.xcconfig"; sourceTree = "<group>"; };
 		2F235DB221A65E8D002AD0FD /* PareDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PareDetailViewController.h; sourceTree = "<group>"; };
 		2F235DB321A65E8D002AD0FD /* lame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = lame.h; sourceTree = "<group>"; };
-		2F235DB421A65E8D002AD0FD /* libmp3lame.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libmp3lame.a; sourceTree = "<group>"; };
 		2F235DB521A65E8E002AD0FD /* PareDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PareDetailViewController.m; sourceTree = "<group>"; };
 		2F235DB621A65E8E002AD0FD /* YgJSObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YgJSObject.m; sourceTree = "<group>"; };
 		2F27B4ED21424E06006A5ACA /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
@@ -336,11 +334,9 @@
 		2F78D02C212AA10500A6FB62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2FD3241021807520009C967D /* YGToolsObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGToolsObject.h; sourceTree = "<group>"; };
 		2FD3241121807520009C967D /* YGToolsObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGToolsObject.m; sourceTree = "<group>"; };
-		3210CE9D21F1DD47003B404D /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3223EA3F22000BD10062D33B /* del.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = del.png; sourceTree = "<group>"; };
 		3248D42021F067D2005614E4 /* TSFRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSFRequest.h; sourceTree = "<group>"; };
 		3248D42121F067D2005614E4 /* TSFRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSFRequest.m; sourceTree = "<group>"; };
-		32C1136821FAE7E900A5C3ED /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		72A97F313A176D956735C2D2 /* Pods-ygxtClass.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ygxtClass.release.xcconfig"; path = "Pods/Target Support Files/Pods-ygxtClass/Pods-ygxtClass.release.xcconfig"; sourceTree = "<group>"; };
 		83C4442D97AC40F632E04443 /* libPods-ygxtClass.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ygxtClass.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD0563322403B70600CC46A2 /* PersonVideoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonVideoView.m; sourceTree = "<group>"; };
@@ -971,7 +967,6 @@
 				3248D42021F067D2005614E4 /* TSFRequest.h */,
 				3248D42121F067D2005614E4 /* TSFRequest.m */,
 				2F235DB321A65E8D002AD0FD /* lame.h */,
-				2F235DB421A65E8D002AD0FD /* libmp3lame.a */,
 				3223EA3F22000BD10062D33B /* del.png */,
 				2F235DB221A65E8D002AD0FD /* PareDetailViewController.h */,
 				2F235DB521A65E8E002AD0FD /* PareDetailViewController.m */,
@@ -984,8 +979,6 @@
 				2F282793215378AA0008B0CE /* VideoSession.m */,
 				2F28278C215378A90008B0CE /* VideoViewLayouter.h */,
 				2F282791215378AA0008B0CE /* VideoViewLayouter.m */,
-				3210CE9D21F1DD47003B404D /* ViewController.h */,
-				32C1136821FAE7E900A5C3ED /* ViewController.m */,
 				2FD3241021807520009C967D /* YGToolsObject.h */,
 				2FD3241121807520009C967D /* YGToolsObject.m */,
 				2F78D00C212AA10400A6FB62 /* Main.storyboard */,
@@ -2005,7 +1998,6 @@
 				BD71581C240264370070F202 /* GPUImageVideoCamera.m in Sources */,
 				BD7157BF240264370070F202 /* GPUImageSkinToneFilter.m in Sources */,
 				BD0563492403D83C00CC46A2 /* VideoMemberTableViewCell.m in Sources */,
-				32C1136921FAE7E900A5C3ED /* ViewController.m in Sources */,
 				BD71584B240264370070F202 /* GJJanusHttp.m in Sources */,
 				BD7157D4240264370070F202 /* GLProgram.m in Sources */,
 				BD3A2F522417D0160021D96E /* OSProgressView.m in Sources */,

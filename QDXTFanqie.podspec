@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-   spec.source_files  = "QDXTCocoPodsNew/**"
+   spec.source_files  = "QDXTCocoPods/*"
    # spec.public_header_files = "ygxtClass/ygxtClass/ViewController.h"
 
 
