@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "QDXTFanqie"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A short description of QDXTFanqie."
 
   # This description is used to generate tags and improve search results.
@@ -91,9 +91,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "QDXTCocoPods/*.{h,m}"
-
-  # spec.public_header_files = "Classes/**/*.h"
+   spec.source_files  = "QDXTCocoPods/*.{h,m}"
+   spec.public_header_files = "ygxtClass/ygxtClass/ViewController.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
